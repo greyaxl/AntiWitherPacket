@@ -1,0 +1,5 @@
+name: AntiWitherPacket
+author: greyaxl
+version: 1.0
+main: me.greyaxl.antiwitherpacket.AntiWitherPacket
+depend: [ProtocolLib]
