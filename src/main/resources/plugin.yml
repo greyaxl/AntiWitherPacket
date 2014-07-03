@@ -1,5 +1,5 @@
-name: AntiWitherPacket
+name: FixWithers
 author: greyaxl
 version: 1.0
-main: me.greyaxl.antiwitherpacket.AntiWitherPacket
+main: me.greyaxl.fixwithers.FixWithers
 depend: [ProtocolLib]

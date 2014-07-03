@@ -1,4 +1,4 @@
-package me.greyaxl.antiwitherpacket;
+package me.greyaxl.fixwithers;
 
 import com.comphenix.protocol.PacketType;
 import com.comphenix.protocol.ProtocolLibrary;
@@ -12,7 +12,7 @@ import java.util.Random;
 import org.bukkit.entity.Player;
 import org.bukkit.plugin.java.JavaPlugin;
 
-public class AntiWitherPacket extends JavaPlugin {
+public class FixWithers extends JavaPlugin {
     private ProtocolManager protocolManager;
     private Random random;
 
